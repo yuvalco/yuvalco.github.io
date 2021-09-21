@@ -6,11 +6,10 @@
 name: בלוג על תוכנה
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: בלוג של מתכנת רגיל
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:
-https://github.com/yuvalco/yuvalco.github.io/blob/master/images/ProgrammingIllustration.png
+avatar: 	https://github.com/yuvalco/yuvalco.github.io/blob/master/images/ProgrammingIllustration.png
 
 #
 # Flags below are optional
