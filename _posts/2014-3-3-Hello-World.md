@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: איך וים יכול לעזור לכם לכתוב קוד
 published: true
 ---
 
