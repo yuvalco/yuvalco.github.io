@@ -5,10 +5,17 @@ published: true
 ---
 
 
-## מה זה vim
+## מה זה Vim
 
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
+Vim הוא עורך טקסט שנמצא במערכות מבוססות unix וקיים גם לווינדוס ,הוא גרסה משודרגת של עורך טקסט בשם vi משנות ה 70 ( vim קיצור של vi - improved ) במקור ל vi לא היתה תמיכה בעכבר ולכן כל הכתיבה ועריכת הטקסט נעשתה רק עם המקלדת.
+
+אולי בעבר כבר נתקלתם ב Vim, אם ניסיתם לערוך דרך הטרמינל בלינוקס קובץ טקסט יש סיכוי טוב שניסתם לעשות את זה דרך Vim או אחת מגרסאתיו, ואם עשיתם את זה אז יש סיכוי עוד יותר טוב שניסתם לצאת ממנו לאחר שסיימתם לערוך את הטקסט ללא הצלחה.
+בשביל לצאת מ Vim צריך להקיש את הפקודה
+: wq
+ שמשמעותה לשמור ולצאת.
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
