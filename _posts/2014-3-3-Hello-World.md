@@ -21,7 +21,7 @@ Vim הוא עורך טקסט שנמצא במערכות מבוססות unix וק�
  שמשמעותה לשמור ולצאת.
 
  
-![Vim selecting text]({{site.baseurl}}/_posts/Vim showcase 1.gif)
+![]({{site.baseurl}}/_posts/Vim showcase 1.gif)
 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
