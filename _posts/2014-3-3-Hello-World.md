@@ -22,12 +22,9 @@ Vim הוא עורך טקסט שנמצא במערכות מבוססות unix וק�
  
  
  https://raw.githubusercontent.com/yuvalco/yuvalco.github.io/master/images/Vim showcase 1.gif
+ 
 ![Vim selecting text]({{site.baseurl}}/_posts/Vim showcase 1.gif)
 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
-![13081-01-gradient-designs-powerpoint-backgrounds-16x9-5.jpg]({{site.baseurl}}/_posts/13081-01-gradient-designs-powerpoint-backgrounds-16x9-5.jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
-> We loved with a love that was more than love
