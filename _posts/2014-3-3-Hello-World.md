@@ -1,13 +1,9 @@
 ---
 layout: post
 title: איך וים יכול לעזור לכם לכתוב קוד
-published: true
+
 ---
-
-
 ## מה זה Vim
-
-
 
 Vim הוא עורך טקסט שנמצא במערכות מבוססות unix וקיים גם לווינדוס ,הוא גרסה משודרגת של עורך טקסט בשם vi משנות ה 70 ( vim קיצור של vi - improved ) במקור ל vi לא היתה תמיכה בעכבר ולכן כל הכתיבה ועריכת הטקסט נעשתה רק עם המקלדת.
 
@@ -15,14 +11,8 @@ Vim הוא עורך טקסט שנמצא במערכות מבוססות unix וק�
 בשביל לצאת מVim צריך להקיש את הפקודה
 
 `check`
-	: wq
+: wq
 
+שמשמעותה לשמור ולצאת.
 
- שמשמעותה לשמור ולצאת.
-
- 
-![Vimshowcase1.gif]({{site.baseurl}}/_posts/Vimshowcase1.gif)
-
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![](/uploads/vimshowcase1.gif)
