@@ -15,6 +15,8 @@ Vim הוא עורך טקסט שנמצא במערכות מבוססות unix וק�
 
     Just checking if english is working
 
+`_"<strong>This</strong> is an example sentence."_ -**OP**`
+
 שמשמעותה לשמור ולצאת.
 
 ![](/uploads/vimshowcase1.gif)
