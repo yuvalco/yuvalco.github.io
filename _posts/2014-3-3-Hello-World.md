@@ -13,6 +13,8 @@ Vim הוא עורך טקסט שנמצא במערכות מבוססות unix וק�
 `check`
 : wq
 
+    Just checking if english is working
+
 שמשמעותה לשמור ולצאת.
 
 ![](/uploads/vimshowcase1.gif)
