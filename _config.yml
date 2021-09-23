@@ -6,6 +6,7 @@
 name: בלוג על תוכנה
 
 dir: rtl
+lang:he
 
 # Short bio or description (displayed in the header)
 description: sudo get me coffe...  please?
