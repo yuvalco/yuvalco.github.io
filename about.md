@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+
 ---
+### עליי
 
-Some information about you!
+הי, אני יובל מפתח Backend בחברת סטרטאפ , וסטודנט למדעי המחשב באוניברסיטה הפתוחה.
 
-### More Information
+אני מפתח ומתעניין בתחום מגיל צעיר ופיתחתי כמה אפליקציות אנדרואיד, ותכונות שונות,
 
-A place to include any other types of information that you'd like to include about yourself.
+בפייתון, ג'אווה ועוד
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+בתחום העבודה שלי אני מתעסק עם הרבה שירותים שונים ב AWS, וכותב בעיקר ב Python.
